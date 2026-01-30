@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\bin\Debug\net9.0-windows\домашня робота.exe
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\bin\Debug\net9.0-windows\домашня робота.deps.json
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\bin\Debug\net9.0-windows\домашня робота.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\bin\Debug\net9.0-windows\домашня робота.dll
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\bin\Debug\net9.0-windows\домашня робота.pdb
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня_робота.MainForm.resources
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.dll
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\refint\домашня робота.dll
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.pdb
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\домашня робота.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Lisa\програмування\домашня робота. програмування\домашня робота\домашня робота\obj\Debug\net9.0-windows\ref\домашня робота.dll
